@@ -6,4 +6,4 @@ This analysis is meant to sift through the data given by Alphabet Soup on busine
 
 # Results
 
-![pre-screenshot.png]pre-screenshot.png
+![pre-screenshot.png](pre-screenshot.png)
